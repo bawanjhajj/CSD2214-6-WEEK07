@@ -1,7 +1,7 @@
 ﻿// Your code here!
-<script>
-    var bird = {
-        genus: "corvus",
+
+var bird = {
+    genus: "corvus",
     species: "corvax",
     commonName: "raven",
     callType: "squawky",
@@ -12,8 +12,8 @@
 };
 
 
-        var bear = {
-        genus: "ursus",
+var bear = {
+    genus: "ursus",
     species: "arctos",
     commonName: "brown bear",
     callType: "roar",
@@ -25,4 +25,3 @@
 };
 
 
-        </script>
