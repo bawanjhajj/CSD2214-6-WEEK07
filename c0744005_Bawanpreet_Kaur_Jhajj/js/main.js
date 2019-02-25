@@ -24,4 +24,8 @@ var bear = {
 
 };
 
-
+var days = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
+document.write(days.length);
+for (i = days.length; i >=0; i--) {
+    document.write(days[i]+"<p>");
+}
